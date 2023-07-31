@@ -42,3 +42,8 @@ dvc repro
 ```
 dvc dag
 ```
+
+
+```
+dvc repro --force stage_03
+```
