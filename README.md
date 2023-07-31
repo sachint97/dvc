@@ -29,3 +29,16 @@ touch requirements.txt
 ```bash
 pip install -r requirements.txt
 ```
+
+
+```
+dcv init
+```
+
+```
+dvc repro
+```
+
+```
+dvc dag
+```
