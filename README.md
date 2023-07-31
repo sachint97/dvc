@@ -1,4 +1,4 @@
-```
+```hash
 mkdir dvc
 ```
 
