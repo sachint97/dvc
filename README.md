@@ -47,3 +47,27 @@ dvc dag
 ```
 dvc repro --force stage_03
 ```
+
+```
+dvc add <filename>
+```
+
+```
+git add <filename> && git commit -m "file added"
+```
+
+```
+mkdir /tmp/dvcstore
+```
+
+```
+dvc remote add -d myremote /tmp/dvcstore
+```
+
+```
+dvc push
+```
+
+```
+https://dvc.org/doc/start/data-management/data-versioning
+```
